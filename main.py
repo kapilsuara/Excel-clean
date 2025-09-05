@@ -9,10 +9,6 @@ import os
 import tempfile
 import shutil
 import json
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv()
 
 # Set Streamlit to wide layout for full-screen experience
 st.set_page_config(layout="wide")
@@ -21,8 +17,11 @@ st.set_page_config(layout="wide")
 logging.basicConfig(filename='data_cleaning_log.txt', level=logging.INFO, 
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Get Anthropic API key from environment variable
-ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
+# Get Anthropic API key from Streamlit secrets
+try:
+    ANTHROPIC_API_KEY = st.secrets["ANTHROPIC_API_KEY"]
+except KeyError:
+    ANTHROPIC_API_KEY = None
 
 # Simple CSS for layout
 st.markdown("""
@@ -173,12 +172,14 @@ def clean_excel_basic(input_path, output_path, sheet_name=None):
 
 def apply_user_query_to_df(df, query):
     """Apply user's natural language query to DataFrame using Claude"""
-    if not ANTHROPIC_API_KEY:
-        return df, "❌ No API key configured. Please set ANTHROPIC_API_KEY in .env file."
+    try:
+        api_key = st.secrets["ANTHROPIC_API_KEY"]
+    except KeyError:
+        return df, "❌ No API key configured. Please add ANTHROPIC_API_KEY to Streamlit secrets."
     
     try:
         import anthropic
-        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        client = anthropic.Anthropic(api_key=api_key)
         
         # Get DataFrame info for context
         df_info = f"Columns: {list(df.columns)}\nSample data:\n{df.head(3).to_string()}"
@@ -211,7 +212,7 @@ Example: df = df.drop(columns=['Column_Name'])
     except Exception as e:
         error_msg = str(e)
         if "authentication" in error_msg.lower() or "401" in error_msg:
-            return df, "❌ Invalid API key. Please check your Anthropic API key in .env file."
+            return df, "❌ Invalid API key. Please check your Anthropic API key in Streamlit secrets."
         else:
             return df, f"❌ Error: {error_msg}"
 
@@ -371,7 +372,7 @@ if 'cleaned_df' not in st.session_state:
     ### 🔧 Features:
     - **Excel Cleaning**: Removes duplicates, empty rows/columns, standardizes column names
     - **Data Processing**: Handles merged cells, fills missing values, cleans text
-    - **AI Chatbot**: Natural language data manipulation (requires valid Anthropic API key)
+    - **AI Chatbot**: Natural language data manipulation (requires Anthropic API key in Streamlit secrets)
     - **Download**: Get your cleaned data as Excel file
     
     ### 📝 How to use:
@@ -379,5 +380,5 @@ if 'cleaned_df' not in st.session_state:
     2. Select a sheet (if multiple sheets exist)
     3. Click "Clean Data" to process your file
     4. Review the cleaning report and download the result
-    5. Use the chatbot to make additional modifications (optional)
+    5. Use the chatbot to make additional modifications (requires API key in secrets)
     """)
