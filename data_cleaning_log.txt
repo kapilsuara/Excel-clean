@@ -1,0 +1,294 @@
+2025-09-05 15:00:34,333 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:00:43,241 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:00:43,298 - INFO - File loaded successfully.
+2025-09-05 15:00:43,398 - INFO - File loaded successfully.
+2025-09-05 15:00:43,398 - INFO - Processed 0 merged cell ranges
+2025-09-05 15:00:43,454 - INFO - Removed 13 duplicate rows.
+2025-09-05 15:00:43,480 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpx8bme23k.xlsx
+2025-09-05 15:00:43,480 - ERROR - Error: not enough values to unpack (expected 4, got 2)
+2025-09-05 15:00:56,966 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:00:59,521 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:01:16,766 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:01:16,817 - INFO - File loaded successfully.
+2025-09-05 15:01:32,597 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:01:32,657 - INFO - File loaded successfully.
+2025-09-05 15:01:32,657 - INFO - Processed 6 merged cell ranges
+2025-09-05 15:01:32,657 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Sheet4'.
+2025-09-05 15:01:32,697 - INFO - Removed 3 duplicate rows.
+2025-09-05 15:01:32,707 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmplwu_ftr8.xlsx
+2025-09-05 15:01:32,787 - INFO - File loaded successfully.
+2025-09-05 15:01:32,787 - INFO - Processed 6 merged cell ranges
+2025-09-05 15:01:32,787 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Master'.
+2025-09-05 15:01:32,822 - ERROR - Error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-09-05 15:07:48,889 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:07:53,937 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:07:53,954 - INFO - File loaded successfully.
+2025-09-05 15:07:54,000 - INFO - File loaded successfully.
+2025-09-05 15:07:54,000 - INFO - Processed 0 merged cell ranges
+2025-09-05 15:07:54,011 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:07:54,012 - INFO - Special characters found in Unnamed:_6. Cleaning.
+2025-09-05 15:07:54,016 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpoj8mga17.xlsx
+2025-09-05 15:07:54,017 - ERROR - Error: not enough values to unpack (expected 4, got 2)
+2025-09-05 15:11:03,729 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:11:10,175 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:11:10,190 - INFO - File loaded successfully.
+2025-09-05 15:11:25,292 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:11:25,315 - INFO - File loaded successfully.
+2025-09-05 15:11:25,315 - INFO - Processed 0 merged cell ranges
+2025-09-05 15:11:25,333 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:11:25,338 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmps0lsxd95.xlsx
+2025-09-05 15:12:08,304 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:12:08,352 - INFO - File loaded successfully.
+2025-09-05 15:12:20,998 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:12:21,057 - INFO - File loaded successfully.
+2025-09-05 15:12:21,057 - INFO - Processed 6 merged cell ranges
+2025-09-05 15:12:21,057 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Sheet4'.
+2025-09-05 15:12:21,097 - INFO - Removed 3 duplicate rows.
+2025-09-05 15:12:21,107 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpr4ehm5ho.xlsx
+2025-09-05 15:12:21,186 - INFO - File loaded successfully.
+2025-09-05 15:12:21,186 - INFO - Processed 6 merged cell ranges
+2025-09-05 15:12:21,186 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Master'.
+2025-09-05 15:12:21,222 - ERROR - Error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-09-05 15:15:39,682 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:15:47,440 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:15:47,489 - INFO - File loaded successfully.
+2025-09-05 15:15:59,726 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:15:59,787 - INFO - File loaded successfully.
+2025-09-05 15:15:59,788 - INFO - Processed 6 merged cell ranges
+2025-09-05 15:15:59,788 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Sheet4'.
+2025-09-05 15:15:59,827 - INFO - Removed 3 duplicate rows.
+2025-09-05 15:15:59,837 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpn49wp691.xlsx
+2025-09-05 15:15:59,918 - INFO - File loaded successfully.
+2025-09-05 15:15:59,918 - INFO - Processed 6 merged cell ranges
+2025-09-05 15:15:59,918 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Master'.
+2025-09-05 15:15:59,954 - ERROR - Error: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-09-05 15:21:04,676 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:21:18,707 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:21:18,757 - INFO - File loaded successfully.
+2025-09-05 15:21:38,571 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:21:38,632 - INFO - File loaded successfully.
+2025-09-05 15:21:38,632 - INFO - Processed 6 merged cell ranges
+2025-09-05 15:21:38,632 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Sheet4'.
+2025-09-05 15:21:38,670 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:21:38,681 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpgbowamh4.xlsx
+2025-09-05 15:21:38,774 - INFO - File loaded successfully.
+2025-09-05 15:21:38,774 - INFO - Processed 6 merged cell ranges
+2025-09-05 15:21:38,774 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Master'.
+2025-09-05 15:21:38,811 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:21:38,822 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpalkf3f1r.xlsx
+2025-09-05 15:21:55,672 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:21:55,731 - INFO - File loaded successfully.
+2025-09-05 15:21:55,731 - INFO - Processed 0 merged cell ranges
+2025-09-05 15:21:55,731 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Govt'.
+2025-09-05 15:21:55,768 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:21:55,772 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpudhqgd1p.xlsx
+2025-09-05 15:21:55,832 - INFO - File loaded successfully.
+2025-09-05 15:21:55,832 - INFO - Processed 0 merged cell ranges
+2025-09-05 15:21:55,832 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'DigiClinic'.
+2025-09-05 15:21:55,865 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:21:55,871 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpxt4srwt3.xlsx
+2025-09-05 15:22:14,411 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:22:14,467 - INFO - File loaded successfully.
+2025-09-05 15:22:14,468 - INFO - Processed 0 merged cell ranges
+2025-09-05 15:22:14,468 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'CSR'.
+2025-09-05 15:22:14,528 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:22:14,533 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmp_vtoyngs.xlsx
+2025-09-05 15:22:14,605 - INFO - File loaded successfully.
+2025-09-05 15:22:14,605 - INFO - Processed 0 merged cell ranges
+2025-09-05 15:22:14,605 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Clinics'.
+2025-09-05 15:22:14,640 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:22:14,649 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmp_leiboav.xlsx
+2025-09-05 15:22:14,718 - INFO - File loaded successfully.
+2025-09-05 15:22:14,718 - INFO - Processed 1 merged cell ranges
+2025-09-05 15:22:14,718 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Summary'.
+2025-09-05 15:22:14,755 - INFO - Removed 3 duplicate rows.
+2025-09-05 15:22:14,766 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpppx7f4zh.xlsx
+2025-09-05 15:22:24,959 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:22:25,020 - INFO - File loaded successfully.
+2025-09-05 15:22:25,020 - INFO - Processed 0 merged cell ranges
+2025-09-05 15:22:25,020 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Queries'.
+2025-09-05 15:22:25,054 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:22:25,055 - INFO - Special characters found in 1._Revenue_Per_Device_With_Categorization:_Identify_Where_We_Can_Sell_Devices_And_At_What_Price.. Cleaning.
+2025-09-05 15:22:25,057 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmp4ejg800w.xlsx
+2025-09-05 15:22:25,124 - INFO - File loaded successfully.
+2025-09-05 15:22:25,124 - INFO - Processed 11 merged cell ranges
+2025-09-05 15:22:25,124 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Assumptions'.
+2025-09-05 15:22:25,157 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:22:25,165 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpo9yjmmho.xlsx
+2025-09-05 15:22:38,475 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:22:38,536 - INFO - File loaded successfully.
+2025-09-05 15:22:38,536 - INFO - Processed 1 merged cell ranges
+2025-09-05 15:22:38,536 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'R&D'.
+2025-09-05 15:22:38,572 - INFO - Removed 10 duplicate rows.
+2025-09-05 15:22:38,575 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmptsy7lhxk.xlsx
+2025-09-05 15:22:53,118 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 15:22:53,221 - INFO - File loaded successfully.
+2025-09-05 15:22:53,221 - INFO - Processed 0 merged cell ranges
+2025-09-05 15:22:53,221 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Pharm- BIG'.
+2025-09-05 15:22:53,253 - INFO - Removed 0 duplicate rows.
+2025-09-05 15:22:53,257 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmp_w6rnmu1.xlsx
+2025-09-05 16:38:16,749 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:38:35,591 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:38:35,640 - INFO - File loaded successfully.
+2025-09-05 16:38:49,418 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:38:49,482 - INFO - File loaded successfully.
+2025-09-05 16:38:49,482 - INFO - Processed 6 merged cell ranges
+2025-09-05 16:38:49,482 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Sheet4'.
+2025-09-05 16:38:49,521 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:38:49,531 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpr42dwrw8.xlsx
+2025-09-05 16:38:49,611 - INFO - File loaded successfully.
+2025-09-05 16:38:49,611 - INFO - Processed 6 merged cell ranges
+2025-09-05 16:38:49,611 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Master'.
+2025-09-05 16:38:49,647 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:38:49,657 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpsqxyvbrc.xlsx
+2025-09-05 16:39:04,475 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:39:04,535 - INFO - File loaded successfully.
+2025-09-05 16:39:04,535 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:39:04,535 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Govt'.
+2025-09-05 16:39:04,572 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:39:04,576 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpa8y5i6w_.xlsx
+2025-09-05 16:39:04,634 - INFO - File loaded successfully.
+2025-09-05 16:39:04,634 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:39:04,634 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'DigiClinic'.
+2025-09-05 16:39:04,667 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:39:04,673 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpx0h6ui54.xlsx
+2025-09-05 16:39:21,264 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:39:21,325 - INFO - File loaded successfully.
+2025-09-05 16:39:21,325 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:39:21,325 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'CSR'.
+2025-09-05 16:39:21,389 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:39:21,394 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpve6vs5lr.xlsx
+2025-09-05 16:39:21,466 - INFO - File loaded successfully.
+2025-09-05 16:39:21,466 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:39:21,466 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Clinics'.
+2025-09-05 16:39:21,501 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:39:21,511 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpe2kaoyfo.xlsx
+2025-09-05 16:39:21,580 - INFO - File loaded successfully.
+2025-09-05 16:39:21,580 - INFO - Processed 1 merged cell ranges
+2025-09-05 16:39:21,580 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Summary'.
+2025-09-05 16:39:21,616 - INFO - Removed 3 duplicate rows.
+2025-09-05 16:39:21,628 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpv9c99yhd.xlsx
+2025-09-05 16:39:32,936 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:39:32,988 - INFO - File loaded successfully.
+2025-09-05 16:39:32,988 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:39:32,988 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Queries'.
+2025-09-05 16:39:33,022 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:39:33,022 - INFO - Special characters found in 1._Revenue_Per_Device_With_Categorization:_Identify_Where_We_Can_Sell_Devices_And_At_What_Price.. Cleaning.
+2025-09-05 16:39:33,024 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpc5cf82vc.xlsx
+2025-09-05 16:39:33,090 - INFO - File loaded successfully.
+2025-09-05 16:39:33,090 - INFO - Processed 11 merged cell ranges
+2025-09-05 16:39:33,090 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Assumptions'.
+2025-09-05 16:39:33,124 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:39:33,132 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpj5c0fzv7.xlsx
+2025-09-05 16:39:45,940 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:39:46,002 - INFO - File loaded successfully.
+2025-09-05 16:39:46,002 - INFO - Processed 1 merged cell ranges
+2025-09-05 16:39:46,002 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'R&D'.
+2025-09-05 16:39:46,038 - INFO - Removed 10 duplicate rows.
+2025-09-05 16:39:46,042 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpx09so34y.xlsx
+2025-09-05 16:40:03,506 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:40:03,616 - INFO - File loaded successfully.
+2025-09-05 16:40:03,616 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:40:03,616 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Pharm- BIG'.
+2025-09-05 16:40:03,649 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:40:03,653 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmp7v3a3slt.xlsx
+2025-09-05 16:41:06,530 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:41:06,570 - INFO - File loaded successfully.
+2025-09-05 16:41:20,661 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:41:20,722 - INFO - File loaded successfully.
+2025-09-05 16:41:20,722 - INFO - Processed 6 merged cell ranges
+2025-09-05 16:41:20,722 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Sheet4'.
+2025-09-05 16:41:20,761 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:41:20,771 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmppv7dp7gz.xlsx
+2025-09-05 16:41:20,850 - INFO - File loaded successfully.
+2025-09-05 16:41:20,850 - INFO - Processed 6 merged cell ranges
+2025-09-05 16:41:20,850 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Master'.
+2025-09-05 16:41:20,885 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:41:20,895 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpntzlvo68.xlsx
+2025-09-05 16:41:37,099 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:41:37,171 - INFO - File loaded successfully.
+2025-09-05 16:41:37,171 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:41:37,171 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Govt'.
+2025-09-05 16:41:37,210 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:41:37,215 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmp2mg9vm2d.xlsx
+2025-09-05 16:41:37,275 - INFO - File loaded successfully.
+2025-09-05 16:41:37,275 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:41:37,275 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'DigiClinic'.
+2025-09-05 16:41:37,307 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:41:37,313 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpr2fjy9d9.xlsx
+2025-09-05 16:41:54,044 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:41:54,105 - INFO - File loaded successfully.
+2025-09-05 16:41:54,105 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:41:54,105 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'CSR'.
+2025-09-05 16:41:54,175 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:41:54,180 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmp58hyv2zu.xlsx
+2025-09-05 16:41:54,252 - INFO - File loaded successfully.
+2025-09-05 16:41:54,252 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:41:54,252 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Clinics'.
+2025-09-05 16:41:54,287 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:41:54,296 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpe143ti0c.xlsx
+2025-09-05 16:41:54,365 - INFO - File loaded successfully.
+2025-09-05 16:41:54,365 - INFO - Processed 1 merged cell ranges
+2025-09-05 16:41:54,365 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Summary'.
+2025-09-05 16:41:54,402 - INFO - Removed 3 duplicate rows.
+2025-09-05 16:41:54,413 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpf3o2_gp4.xlsx
+2025-09-05 16:42:06,230 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:42:06,293 - INFO - File loaded successfully.
+2025-09-05 16:42:06,293 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:42:06,293 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Queries'.
+2025-09-05 16:42:06,328 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:42:06,328 - INFO - Special characters found in 1._Revenue_Per_Device_With_Categorization:_Identify_Where_We_Can_Sell_Devices_And_At_What_Price.. Cleaning.
+2025-09-05 16:42:06,330 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpsx8a824f.xlsx
+2025-09-05 16:42:06,397 - INFO - File loaded successfully.
+2025-09-05 16:42:06,397 - INFO - Processed 11 merged cell ranges
+2025-09-05 16:42:06,397 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Assumptions'.
+2025-09-05 16:42:06,431 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:42:06,438 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpq51edhry.xlsx
+2025-09-05 16:42:20,156 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:42:20,217 - INFO - File loaded successfully.
+2025-09-05 16:42:20,217 - INFO - Processed 1 merged cell ranges
+2025-09-05 16:42:20,217 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'R&D'.
+2025-09-05 16:42:20,253 - INFO - Removed 10 duplicate rows.
+2025-09-05 16:42:20,257 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmp2w0h9nb8.xlsx
+2025-09-05 16:42:35,260 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:42:35,358 - INFO - File loaded successfully.
+2025-09-05 16:42:35,358 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:42:35,358 - INFO - Extra sheets found: ['Sheet4', 'Master', 'Govt', 'DigiClinic', 'CSR', 'Clinics', 'Summary', 'Queries', 'Assumptions', 'R&D', 'Pharm- BIG']. Processing only 'Pharm- BIG'.
+2025-09-05 16:42:35,390 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:42:35,394 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpe5n5vrg5.xlsx
+2025-09-05 16:56:26,554 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:56:32,207 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:56:32,251 - INFO - File loaded successfully.
+2025-09-05 16:56:32,342 - INFO - File loaded successfully.
+2025-09-05 16:56:32,342 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:56:32,385 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:56:32,385 - ERROR - Error fixing delimiters in Date_Of_Joining: Can only use .str accessor with string values!
+2025-09-05 16:56:32,386 - ERROR - Error fixing delimiters in Last_Increment_Date: Can only use .str accessor with string values!
+2025-09-05 16:56:32,387 - INFO - Special characters found in Location. Cleaning.
+2025-09-05 16:56:32,414 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmplg_xl16e.xlsx
+2025-09-05 16:56:32,415 - ERROR - Error: 'basic_info'
+2025-09-05 16:56:39,992 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:56:40,016 - INFO - File loaded successfully.
+2025-09-05 16:56:55,835 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 16:56:55,879 - INFO - File loaded successfully.
+2025-09-05 16:56:55,879 - INFO - Processed 0 merged cell ranges
+2025-09-05 16:56:55,896 - INFO - Removed 0 duplicate rows.
+2025-09-05 16:56:55,901 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpffi2d1p1.xlsx
+2025-09-05 16:56:55,906 - ERROR - Error: 'Construction Cost & other cost'
+2025-09-05 17:02:15,999 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 17:02:22,491 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 17:02:22,510 - INFO - File loaded successfully.
+2025-09-05 17:02:33,626 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 17:02:33,645 - INFO - File loaded successfully.
+2025-09-05 17:02:33,645 - INFO - Processed 0 merged cell ranges
+2025-09-05 17:02:33,658 - INFO - Removed 0 duplicate rows.
+2025-09-05 17:02:33,664 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmplsfbz48e.xlsx
+2025-09-05 17:02:38,851 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 17:35:52,294 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 17:35:59,827 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 17:35:59,844 - INFO - File loaded successfully.
+2025-09-05 17:36:11,715 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-09-05 17:36:11,737 - INFO - File loaded successfully.
+2025-09-05 17:36:11,737 - INFO - Processed 0 merged cell ranges
+2025-09-05 17:36:11,751 - INFO - Removed 0 duplicate rows.
+2025-09-05 17:36:11,758 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpq8utxqrd.xlsx
