@@ -284,11 +284,6 @@
 2025-09-05 17:02:33,658 - INFO - Removed 0 duplicate rows.
 2025-09-05 17:02:33,664 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmplsfbz48e.xlsx
 2025-09-05 17:02:38,851 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2025-09-05 17:35:52,294 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2025-09-05 17:35:59,827 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2025-09-05 17:35:59,844 - INFO - File loaded successfully.
-2025-09-05 17:36:11,715 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
-2025-09-05 17:36:11,737 - INFO - File loaded successfully.
-2025-09-05 17:36:11,737 - INFO - Processed 0 merged cell ranges
-2025-09-05 17:36:11,751 - INFO - Removed 0 duplicate rows.
-2025-09-05 17:36:11,758 - INFO - Cleaned file saved to /var/folders/b8/8rkjlcn57qb9_cm20yrc9hs80000gn/T/tmpq8utxqrd.xlsx
+2025-09-05 19:08:07,623 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2025-09-05 19:08:08,009 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"
+2025-09-05 19:08:54,216 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 401 Unauthorized"

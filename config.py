@@ -4,8 +4,16 @@ Configuration module for Excel cleaning Streamlit application
 import os
 import logging
 
-# API Configuration - Hardcoded
-ANTHROPIC_API_KEY = "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"
+# Try to load dotenv if available
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    # dotenv not installed, will use os.environ directly
+    pass
+
+# API Configuration
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 ANTHROPIC_MODEL = "claude-3-5-sonnet-20240620"
 
 # Logging Configuration
