@@ -1,5 +1,11 @@
-streamlit
+fastapi
+uvicorn[standard]
+python-multipart
 pandas
 openpyxl
 numpy
 anthropic
+python-dotenv
+streamlit
+pydantic
+aiofiles
